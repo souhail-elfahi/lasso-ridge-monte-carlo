@@ -1,4 +1,5 @@
 Version: 1.0
+ProjectId: 7d09e5b2-a509-406d-8e5f-bfaf1d75c42f
 
 RestoreWorkspace: No
 SaveWorkspace: No
@@ -8,3 +9,6 @@ EnableCodeIndexing: Yes
 UseSpacesForTab: Yes
 NumSpacesForTab: 2
 Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
